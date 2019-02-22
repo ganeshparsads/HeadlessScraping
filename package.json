@@ -1,0 +1,23 @@
+{
+  "name": "headlessscraping",
+  "version": "1.0.0",
+  "description": "In this project we will scrape GitHub, login to it, extract and save emails of users using Chrome Headless, Puppeteer, Node and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshparsads/HeadlessScraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshparsads/HeadlessScraping/issues"
+  },
+  "homepage": "https://github.com/ganeshparsads/HeadlessScraping#readme",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "puppeteer": "^1.12.2"
+  }
+}
