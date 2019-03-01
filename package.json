@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ganeshparsads/HeadlessScraping#readme",
   "dependencies": {
     "bluebird": "^3.5.3",
+    "mongoose": "^5.4.16",
     "puppeteer": "^1.12.2"
   }
 }

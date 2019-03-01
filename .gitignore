@@ -8,5 +8,6 @@ public/dist/
 **/*.map
 logs/
 settings.json
+./creds.js
 .vscode
 webpack-stats.json
